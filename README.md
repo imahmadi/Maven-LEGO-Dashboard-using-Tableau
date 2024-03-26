@@ -14,6 +14,7 @@ The dataset utilized in this challenge was obtained through data scraping from t
 
 # **3. DASHBOARD**
 The dashboard comprises three sections, featuring a main page as the central navigation hub to guide users to their desired topics by selecting from the displayed options.
+
 ![Screenshot of Dashboard](/01._Front_Page.jpg)
 
 **A. Product History** 
@@ -22,17 +23,20 @@ The dashboard comprises three sections, featuring a main page as the central nav
 - Licensed products were initially released in 1999.
 - The inception of the first LEGO board game occurred in 2009.
 - LEGO Ninjago made its debut in 2011.
+  
 ![Screenshot of Dashboard](/02.Lego_History.jpg)
 
 **B. Pieces**
 - The LEGO World Map stands out as the set with the highest number of pieces, totaling 11,695.
 - Three out of the top five sets with the most pieces belong to the Icon-themed products.
+  
 ![Screenshot of Dashboard](/03.Pieces.jpg)
 
 **C. Theme**
 - The License Group Theme is among the Theme Groups with the highest number of products.
 - The Star Wars theme significantly dominates the Licensed Group Theme, surpassing the number of products in other themes.
 - Within the Star Wars subthemes, the most prolific products come from the Magazine Gift subtheme.
+  
   ![Screenshot of Dashboard](/04.Themes.jpg)
 
   ___
